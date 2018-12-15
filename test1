@@ -1,0 +1,7 @@
+@echo off
+echo         你好，请输入你的名字
+echo.
+echo.
+echo.
+set /p a=
+echo 你好，%a%
