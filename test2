@@ -1,0 +1,102 @@
+@echo off
+set mz=影视大全        
+title 影视大全--加载中
+echo         %mz%  Loding...
+ping 127.0.0.0>nul
+cls
+:start
+title 影视大全--密码
+cls
+echo              欢迎来到%mz%
+echo              请输入密码:
+set /p passwd=
+if %passwd% ==51kav goto ui1
+if %passwd% ==51kavzdy goto ui2
+cls
+echo  密码错误
+pause>nul
+goto start
+:ui2
+cls
+echo           请输入视频代号
+echo.
+set /p spdh=
+cls 
+echo      确认视频代号为%spdh%吗？
+pause
+start http://www.ppyy119.com/vod-play-id-%spdh%-src-1-num-1.html
+goto start
+:ui1
+cls
+echo              请选择分类
+echo              1.无码专区
+echo              2.强奸乱伦
+echo              3.制服师生
+echo              4.亚洲情色
+echo              5.退出
+set /p flxz=
+if %flxz% ==1 goto fl1
+if %flxz% ==2 goto fl2
+if %flxz% ==3 goto fl3
+if %flxz% ==4 goto fl4
+if %flxz% ==5 exit
+:fl1
+cls
+echo                   无码专区请选择
+echo              1.性欲しかないヤリばか貧乏カップル 
+echo              2.アナル天使 : 双葉みか
+echo              3.逆恨みされた女教師 : 晴華れい
+echo              4.ハメられた新人アナ : 桜瀬奈
+echo              5.ヤリ放題ガチ中出し : 間宮ここ
+set /p fl1xz=
+if %fl1xz% ==1 start http://www.ppyy119.com/vod-play-id-23371-src-1-num-1.html
+if %fl1xz% ==2 start http://www.ppyy119.com/vod-play-id-23372-src-1-num-1.html
+if %fl1xz% ==3 start http://www.ppyy119.com/vod-play-id-23373-src-1-num-1.html
+if %fl1xz% ==4 start http://www.ppyy119.com/vod-play-id-23370-src-1-num-1.html
+if %fl1xz% ==5 start http://www.ppyy119.com/vod-play-id-23376-src-1-num-1.html
+goto fl1
+:fl2
+cls
+echo                  强奸乱伦请选择
+echo              1.林間少女 6 愛乃奈美 
+echo              2.跟第一次交到的女友第一次約會第一次無套中出 一之瀬梓
+echo              3.搬來隔壁的美尻少妻被我睡走啦 雛森御子
+echo              4.社長的美人秘書 秋野千尋
+echo              5.我的女朋友 鈴森汐娜
+set /p fl2xz=
+if %fl2xz% ==1 start http://www.ppyy119.com/vod-play-id-35973-src-1-num-1.html
+if %fl2xz% ==2 start http://www.ppyy119.com/vod-play-id-37901-src-1-num-1.html
+if %fl2xz% ==3 start http://www.ppyy119.com/vod-play-id-37435-src-1-num-1.html
+if %fl2xz% ==4 start http://www.ppyy119.com/vod-play-id-35968-src-1-num-1.html
+if %fl2xz% ==5 start http://www.ppyy119.com/vod-play-id-35969-src-1-num-1.html
+goto fl2
+:fl3
+cls
+echo                  制服诱惑请选择
+echo              1.讓住院中欲求不滿的隔壁病床嫩妻，吃下媚藥剝奪身體的自由，用勃起肉棒猛烈抽插大量內射！
+echo              2.某日突然跟山下班都同一個方向的近鄰人妻急速接近。橘美鈴
+echo              3.前台小姐濕了的絲襪褲 香椎梨亞
+echo              4.學生按摩妹讓你無限制中出射到爽 榮川乃亞
+echo              5.我明明想和老公內射...老公卻讓我和別的男人內射是為什麼..？ 榮川乃亞
+set /p fl3xz=
+if %fl3xz% ==1 start http://www.ppyy119.com/vod-play-id-36330-src-1-num-1.html
+if %fl3xz% ==2 start http://www.ppyy119.com/vod-play-id-36328-src-1-num-1.html
+if %fl3xz% ==3 start http://www.ppyy119.com/vod-play-id-36325-src-1-num-1.html
+if %fl3xz% ==4 start http://www.ppyy119.com/vod-play-id-36326-src-1-num-1.html
+if %fl3xz% ==5 start http://www.ppyy119.com/vod-play-id-36324-src-1-num-1.html
+goto fl3
+:fl4
+cls
+echo              请选择
+echo              1.続レイプ学園 文化祭ストリップショー～あれから6年後、教師となった奈々美が母校に戻ってくる～ 川上奈々美
+echo              2.もっともっと女として成長したい…！」上京娘が汗を流しながら猛特訓！ひたむきに腰を振り続けるぶきっちょ騎乗位ピストン 水樹璃子
+echo              3.出張予算の都合で人妻女上司と相部屋に。部下のおれを奴隷扱いしてたのにお酒が入ると密着おねだりする甘えん坊に豹変。 東凛 試しにキスをしてみるとネッチョリ舌を絡めてきた。理性を失ったのかチ○ポが欲しいとおねだりしてきたので今度はおれが性奴隷扱いしてやった。
+echo              4.NTR告白
+echo              5. 美大生の軟体純情娘 お父さんにヌードモデルをお願いしたら興奮して中出しされました。梨々花
+set /p fl4xz=
+if %fl4xz% ==1 start http://www.ppyy119.com/vod-play-id-39850-src-1-num-1.html
+if %fl4xz% ==2 start http://www.ppyy119.com/vod-play-id-39849-src-1-num-1.html
+if %fl4xz% ==3 start http://www.ppyy119.com/vod-play-id-39848-src-1-num-1.html
+if %fl4xz% ==4 start http://www.ppyy119.com/vod-play-id-39847-src-1-num-1.html
+if %fl4xz% ==5 start http://www.ppyy119.com/vod-play-id-39846-src-1-num-1.html
+goto fl4
